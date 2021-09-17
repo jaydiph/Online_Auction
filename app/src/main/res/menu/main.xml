@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/mmenu_home"
+        android:title="Home"
+        />
+    <item android:id="@+id/menu_bidhistory"
+
+        android:title="Bid History"
+        />
+    <item android:id="@+id/menu_aboutus"
+
+        android:title="About Us"
+        />
+    <item android:id="@+id/menu_contactus"
+
+        android:title="Contact Us"
+        />
+    <item android:id="@+id/menu_termscondition"
+
+        android:title="Terms &amp; Condition"
+        />
+    <item android:id="@+id/menu_feedback"
+
+        android:title="Feedback"
+        />
+
+</menu>
